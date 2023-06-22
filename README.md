@@ -1,4 +1,14 @@
-### Hi there 👋
+
+# Hello there, I'm Muhammad Khan 👋
+I'm a Computer Engineering Graduate from McMaster University, specializing in web development and IT solutions. Passionate about creating innovative solutions that drive growth and enhance user experience, my academic and professional journey has equipped me with skills in a multitude of programming languages and development concepts.
+
+🌱 I'm constantly learning and adapting to stay on top of the ever-changing landscape of web technologies. Currently exploring new frameworks and libraries to further hone my skills.
+
+👯 I’m looking to collaborate on innovative projects and connect with other passionate developers.
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammadkhanx/)
+
+
 
 <!--
 **KhanxMo/KhanxMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
