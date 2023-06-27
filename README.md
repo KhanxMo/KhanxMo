@@ -1,26 +1,33 @@
 
-# Hello there, I'm Muhammad Khan 👋
-I'm a Computer Engineering Graduate from McMaster University, specializing in web development and IT solutions. I am passionate about creating innovative solutions that drive growth and enhance user experience. My academic and professional journey has equipped me with skills in a multitude of programming languages and development concepts.
+# Hi there, I'm Muhammad Khan 👋
 
-🌱 I'm constantly learning and adapting to stay on top of the ever-changing landscape of web technologies. Currently exploring new frameworks and libraries to further hone my skills.
-
-👯 I’m looking to collaborate on innovative projects and connect with other passionate developers.
-
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammadkhanx/)
+I'm a Computer Engineer and a passionate problem solver, driven by the thrill of turning complex challenges into elegant applications. My love for programming has allowed me to gain a diverse range of experience in many aspects of tech. From developing intricate hardware systems to crafting dynamic websites and engaging software applications, I've had a chance to delve into various facets of this vibrant field.
 
 
+## 🚀 Technical Skills
 
-<!--
-**KhanxMo/KhanxMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Programming Languages:** Python, JavaScript / TypeScript, Java, C / C++, HTML / CSS, Matlab
+- **Libraries and Frameworks:** React, Node.js, Express.js, Bootstrap, JQuery, TensorFlow, OpenCV
+- **Databases:** SQL (MySQL), MongoDB
+- **Development Concepts:** Object-Oriented Programming, Data Structures and Algorithms, API Development
+- **Tools:** Visual Studio Code, Git / GitHub, Figma, Adobe XD, Excel
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Professional Experience
+- **Founder at ProjectFour:** Established a web development firm and successfully directed the development of over 15 sophisticated, responsive and scalable web applications using the MERN stack.
+- **IT & Web Development Coordinator at FANIQUE:** Employed technical expertise to resolve over 30 intricate UI/UX design challenges and spearheaded the redesign of the company website.
+- **Developer at CGI:** Developed a comprehensive, accessible employee website and revamped the employee salary data management system, significantly enhancing productivity.
+
+
+## 🎓 Education
+- **Computer Engineering at McMaster University (2018 - 2023)**
+
+
+## 📫 How to reach me
+- Email: khanm244@mcmaster.ca
+- LinkedIn: [muhammadkhanx](https://www.linkedin.com/in/muhammadkhanx/)
+- GitHub: [@khanxmo](https://github.com/khanxmo)
+- Personal Website: [mkhan.io](http://mkhan.io)
+
+## GitHub Stats
+![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanxmo&show_icons=true&theme=tokyonight)
