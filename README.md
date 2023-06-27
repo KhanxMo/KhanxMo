@@ -1,6 +1,6 @@
 
 # Hello there, I'm Muhammad Khan 👋
-I'm a Computer Engineering Graduate from McMaster University, specializing in web development and IT solutions. Passionate about creating innovative solutions that drive growth and enhance user experience, my academic and professional journey has equipped me with skills in a multitude of programming languages and development concepts.
+I'm a Computer Engineering Graduate from McMaster University, specializing in web development and IT solutions. I am passionate about creating innovative solutions that drive growth and enhance user experience. My academic and professional journey has equipped me with skills in a multitude of programming languages and development concepts.
 
 🌱 I'm constantly learning and adapting to stay on top of the ever-changing landscape of web technologies. Currently exploring new frameworks and libraries to further hone my skills.
 
