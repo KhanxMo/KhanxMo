@@ -31,5 +31,9 @@ Feel free to check out my personal project repositories [here](https://github.co
 - GitHub: [@khanxmo](https://github.com/khanxmo)
 - Personal Website: [mkhan.io](http://mkhan.io)
 
+<!--
+
 ## GitHub Stats
 ![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanxmo&show_icons=true&theme=tokyonight)
+
+--!>
